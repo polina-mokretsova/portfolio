@@ -1,4 +1,5 @@
-# Анализ поведения пользователей в мобильном приложении 
+# [Анализ поведения пользователей в мобильном приложении](https://github.com/polina-mokretsova/portfolio/blob/main/graduation_project/graduation_project.ipynb)
+
 ## Данные 
 
 В наличии было два датасета: 
@@ -14,4 +15,5 @@
 
 ## Используемые инструменты
 *pandas, plotly, numpy, scipy, math, tableau*
+
 
