@@ -1,4 +1,4 @@
-# [Анализ поведения пользователей в мобильном приложении](https://github.com/polina-mokretsova/portfolio/blob/main/graduation_project/graduation_project.ipynb)
+# [Анализ поведения пользователей в мобильном приложении](https://github.com/polina-mokretsova/portfolio/blob/main/app_user_behavior_analysis/app_user_behavior_analysis.ipynb)
 
 ## Данные 
 
