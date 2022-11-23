@@ -11,5 +11,5 @@
 3. Посмотреть, где самая высокая цена за квадратный метр, а где самая низкая.
 4. Определить, зависит ли удаленность от центра на цену квартиры.
 
-## Используемые инструменты
-*pandas, matplotlib (histogram, boxplot, scattermatrix, heatmap, hexbin)*
+## Инструменты и навыки
+*pandas, matplotlib (histogram, boxplot, scattermatrix, heatmap, hexbin), категоризация*
