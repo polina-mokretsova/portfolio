@@ -1,4 +1,4 @@
-# [Анализ целей обучения студентов Яндекс Практикума](https://github.com/polina-mokretsova/portfolio/blob/main/ab_test_new_feature/ab_test_new_feature.ipynb)
+# [Анализ целей обучения студентов Яндекс Практикума](https://github.com/polina-mokretsova/portfolio/blob/main/hackathon_yandex/hackathon.ipynb)
 
 ## Данные 
 В вашем распоряжении есть 2 датасета: с ответами студентов на вопросы (обратная связь после спринта) и показателями успеваемости.
